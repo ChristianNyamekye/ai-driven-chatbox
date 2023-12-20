@@ -1,0 +1,137 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi there",
+        "Hello, is anyone available?",
+        "Good morning, can you help me?",
+        "Good evening",
+        "Hey, are you there?"
+      ],
+      "responses": [
+        "Hello! I'm here to assist you. What can I help you with?",
+        "Good day! How may I assist you today?",
+        "Hello, thank you for visiting my site. Feel free to ask any questions."
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "I have to go now, bye",
+        "Goodbye, thank you for your help",
+        "See you later",
+        "I'm signing off now"
+      ],
+      "responses": [
+        "Goodbye! Don't hesitate to return if you have more questions.",
+        "Have a great day ahead. Farewell!",
+        "It was nice assisting you. Bye for now!"
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": [
+        "Thank you for the information",
+        "Thanks for your help",
+        "Appreciate your assistance",
+        "That was helpful, thanks"
+      ],
+      "responses": [
+        "You're very welcome! If you have more questions, just ask.",
+        "Glad I could assist. If there's anything else, feel free to ask."
+      ]
+    },
+    {
+      "tag": "biography",
+      "patterns": [
+        "Can you tell me more about yourself?",
+        "What's your story?",
+        "I'd like to know more about your background"
+      ],
+      "responses": [
+        "Certainly! I'm a dedicated software developer with a strong background in both front-end and back-end technologies. My passion lies in creating seamless user experiences and efficient back-end functionalities."
+      ]
+    },
+    {
+      "tag": "projects",
+      "patterns": [
+        "What projects have you completed?",
+        "Show me examples of your work",
+        "I'm interested in your project portfolio"
+      ],
+      "responses": [
+        "I've been fortunate to work on a range of projects, from developing web applications to working on data-driven analytics tools. Please visit my portfolio page for detailed case studies."
+      ]
+    },
+    {
+      "tag": "contact",
+      "patterns": [
+        "How can I reach you directly?",
+        "I'd like to discuss a project, where can I email you?",
+        "What's the best way to contact you?"
+      ],
+      "responses": [
+        "For any inquiries or project discussions, you can email me at myemail@example.com, or connect with me on LinkedIn. I'm always open to interesting conversations and opportunities."
+      ]
+    },
+    {
+      "tag": "adventures",
+      "patterns": [
+        "What do you do in your free time?",
+        "Any hobbies or passions?",
+        "What are your interests outside of work?"
+      ],
+      "responses": [
+        "Outside of work, I'm an avid hiker and amateur photographer. I love exploring the wilderness and capturing moments of natural beauty. It's a great way to recharge and find inspiration."
+      ]
+    },
+    {
+      "tag": "resume",
+      "patterns": [
+        "I'd like to see your professional experience",
+        "Do you have a detailed CV I can look at?",
+        "Where can I find more about your professional background?"
+      ],
+      "responses": [
+        "My resume details my professional journey and skills. You can view and download it from the 'Resume' section on my website. If you have specific questions about my experience, feel free to ask."
+      ]
+    },
+    {
+      "tag": "services",
+      "patterns": [
+        "Are you available for consulting?",
+        "Can you provide web development services?",
+        "I need a data analysis expert, can you help?"
+      ],
+      "responses": [
+        "I offer a range of services, including web development, data analysis, and IT consulting. If you have a specific project in mind, let's discuss it further via email or a call."
+      ]
+    },
+    {
+      "tag": "funFact",
+      "patterns": [
+        "Share something unique about you",
+        "Do you have any interesting stories?",
+        "What's a fun fact about yourself?"
+      ],
+      "responses": [
+        "A fun fact about me is that I once coded an entire application during a flight! It was a challenge I set for myself, and it was both fun and productive."
+      ]
+    },
+    {
+      "tag": "funny",
+      "patterns": [
+        "Can you make me laugh?",
+        "I need a good laugh, tell me a joke",
+        "Know any good jokes?"
+      ],
+      "responses": [
+        "Sure, here's one: What do you call an alligator in a vest? An investigator!",
+        "Here's a joke for you: Why don't scientists trust atoms? Because they make up everything!",
+        "Why did the hipster burn his mouth? He drank the coffee before it was cool.",
+        "What did the buffalo say when his son left for college? Bison."
+      ]
+    }
+  ]
+}
