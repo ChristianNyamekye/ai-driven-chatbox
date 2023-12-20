@@ -1,0 +1,5 @@
+conda
+__pycache__
+venv
+chat-icon.png
+data.pth
